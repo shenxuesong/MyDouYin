@@ -26,7 +26,7 @@ private SearchPersenter searchPersenter;
     @Override
     public void showBean(SearchBean searchBean) {
         List<DataBean> data = searchBean.getData();
-     
+
 
     }
 
