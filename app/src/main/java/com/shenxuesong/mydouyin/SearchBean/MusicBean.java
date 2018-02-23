@@ -1,4 +1,4 @@
-package com.shenxuesong.mydouyin.Bean;
+package com.shenxuesong.mydouyin.SearchBean;
 
 public class MusicBean {
 

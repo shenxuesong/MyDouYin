@@ -1,6 +1,6 @@
 package com.shenxuesong.mydouyin.persenter;
 
-import com.shenxuesong.mydouyin.Bean.SearchBean;
+import com.shenxuesong.mydouyin.SearchBean.SearchBean;
 import com.shenxuesong.mydouyin.Iview.Isearch;
 import com.shenxuesong.mydouyin.Model.SearchModel;
 import com.shenxuesong.mydouyin.net.SuccessfulFailureInterface;

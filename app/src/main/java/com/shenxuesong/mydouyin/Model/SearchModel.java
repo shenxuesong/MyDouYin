@@ -1,6 +1,6 @@
 package com.shenxuesong.mydouyin.Model;
 
-import com.shenxuesong.mydouyin.Bean.SearchBean;
+import com.shenxuesong.mydouyin.SearchBean.SearchBean;
 import com.shenxuesong.mydouyin.net.RetrofitHelper;
 import com.shenxuesong.mydouyin.net.SuccessfulFailureInterface;
 

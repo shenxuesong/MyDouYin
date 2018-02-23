@@ -6,4 +6,5 @@ package com.shenxuesong.mydouyin.net;
 
 public class API {
     public static String HOSTURL="https://api.amemv.com";
+
 }

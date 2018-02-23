@@ -1,9 +1,8 @@
-package com.shenxuesong.mydouyin.Bean;
-
+package com.shenxuesong.mydouyin.SearchBean;
 
 import java.util.List;
 
-public class CoverHdBean {
+public  class CoverThumbBean {
 
 
                 private String uri;

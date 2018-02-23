@@ -1,8 +1,9 @@
-package com.shenxuesong.mydouyin.Bean;
+package com.shenxuesong.mydouyin.SearchBean;
 
 import java.util.List;
 
-public  class CoverMediumBean {
+public class PlayUrlBean {
+
 
                 private String uri;
                 private List<String> url_list;
