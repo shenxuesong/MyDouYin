@@ -9,7 +9,7 @@ import android.view.KeyEvent;
 import android.widget.MediaController;
 import android.widget.VideoView;
 
-import com.dl7.player.media.IjkPlayerView;
+
 import com.shenxuesong.mydouyin.R;
 
 public class VideoActivity extends AppCompatActivity {
@@ -22,7 +22,7 @@ private VideoView vv_video1;
         String url = getIntent().getStringExtra("url");
         Log.i("URL",url);
         vv_video1 =  findViewById(R.id.vv_video); ////获取VideoView的id
-       Uri mUri = Uri.parse(url);
+        Uri mUri = Uri.parse(url);
 
         vv_video1.setVideoURI(mUri);
 

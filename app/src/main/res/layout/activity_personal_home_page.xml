@@ -4,10 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.shenxuesong.mydouyin.View.Video.VideoActivity">
-    <VideoView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/vv_video"
-        />
+    tools:context="com.shenxuesong.mydouyin.View.Personalhomepage.PersonalHomePageActivity">
+
 </android.support.constraint.ConstraintLayout>

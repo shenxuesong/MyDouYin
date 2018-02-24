@@ -74,7 +74,7 @@ public class SearchThreeAdapter extends RecyclerView.Adapter<RecyclerView.ViewHo
         hotChallengeAdapter.setOnItemListenerClick(new HotChallengeAdapter.onItemListenerClick() {
             @Override
             public void onItemClick(final String s) {
-                vh.HotRLV.setOnClickListener(new View.OnClickListener() {
+                vh.ll.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
 
